@@ -18,7 +18,10 @@ public abstract class Hero {
 		this.exp = exp;
 	}
 	
+<<<<<<< HEAD
 	public abstract void attack(8);
+	public abstract void attack(5);
+>>>>>>> cat
 	
 	public abstract void move();
 	
