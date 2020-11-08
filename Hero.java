@@ -5,6 +5,7 @@ public abstract class Hero {
 	private String name;
 	private int level;
 	private double exp;
+        private double hp;
 	
 	public Hero() {
 		this("David", 1, 0);
